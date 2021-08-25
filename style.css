@@ -1,0 +1,88 @@
+.header {
+    background-color: lightgray;
+    min-height: 60px;
+    margin-bottom: 2rem;
+}
+.header h1{
+    padding-top: 1rem;
+}
+
+.container {
+    width: auto;
+    min-height: 300px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.categoryContainer {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    padding-top: 1rem;
+    min-height: 300px;
+    min-width: 300px;
+    display: flexbox;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+
+h4{
+    color: azure;
+}
+h5{
+    color: aliceblue;
+}
+
+.text-black{
+    color: black;
+}
+
+.box{
+    width: 16rem;
+    min-height: 16rem;
+    margin-top: 2rem;
+    margin-bottom: 1.5rem;
+    padding-top: 0.5rem;
+    background-color: white;
+}
+
+.infoBox{
+    width: auto;
+    min-height: 30rem;
+    padding-top: 1rem;
+    margin-top: 1rem;
+
+}
+
+.imgSize{
+    width: 12rem;
+    height: 10rem;
+    margin-top: 1.3rem;
+}
+
+.angryColor {
+    background-color: red;
+}
+
+.happyColor {
+    background-color: orange;
+}
+
+.badColor {
+    background-color: darkolivegreen;
+}
+
+.sadColor {
+    background-color: gray;
+}
+
+.surprisedColor {
+    background-color: sandybrown;
+}
+
+.fearfulColor {
+    background-color:darkblue;
+}
+
+.disgustedColor {
+    background-color: darkred;
+}
+
